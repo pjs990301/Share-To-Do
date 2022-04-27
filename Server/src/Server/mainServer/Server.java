@@ -5,7 +5,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 
 public class Server {
-    private static String ip = "127.0.0.1";
+    private static String ip = "183.99.22.179";
     private static int numPort = 9999;
  
     public static void main(String[] args) throws IOException {

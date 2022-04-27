@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mainPackage">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GUI/out/production/ShareToDo/mainPackage/mainPackage.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

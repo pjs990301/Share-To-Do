@@ -16,7 +16,7 @@ public class ServerThread extends Thread {
     private Socket socket = null;
     private BufferedReader in = null;
     private BufferedWriter out = null;
-    private static String FilePath = "src/Server.log";
+    private static String FilePath = "C:\\Users\\HOME\\Documents\\GitHub\\Share-To-Do\\Server\\src\\Server.log";
 
     MemberMethod Member = new MemberMethod();
     RoomMethod Room = new RoomMethod();

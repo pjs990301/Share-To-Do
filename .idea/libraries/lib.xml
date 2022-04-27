@@ -1,0 +1,66 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-json-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-datetime-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-test-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-groovydoc-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-console-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-toml-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-dateutil-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-docgenerator-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-xml-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-xml-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-jmx-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-groovysh-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-nio-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-cli-picocli-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-astbuilder-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-macro-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-test-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-sql-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-templates-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-macro-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-ginq-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-cli-picocli-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-testng-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-ant-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-docgenerator-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-nio-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-servlet-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-toml-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-groovysh-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-macro-library-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-ant-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-ginq-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-test-junit5-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-sql-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-testng-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-typecheckers-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-typecheckers-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-swing-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-jmx-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-jsr223-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-console-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-macro-library-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-json-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-test-junit5-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-contracts-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-contracts-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-servlet-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-astbuilder-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-datetime-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-templates-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-groovydoc-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-jsr223-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-swing-4.0.0-beta-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-dateutil-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-cli-commons-4.0.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Server/lib/groovy-cli-commons-4.0.0-beta-1-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
